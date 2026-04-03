@@ -56,7 +56,7 @@
   },
   "build": {
     "appId": "dihemabd.dihem1",
-    "productName": "مولد المذكرات",
+    "productName": "dihem1",
     "icon": "electron/icon.png",
     "directories": {
       "output": "release"
